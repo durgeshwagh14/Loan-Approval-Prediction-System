@@ -81,6 +81,7 @@ Once the app starts, open your browser and go to:
 
 ```
 http://localhost:8501
+https://loan-approval-prediction-system-33xrmbw463jlr5pk6sydyw.streamlit.app/
 ```
 
 ---
