@@ -1,4 +1,4 @@
-# 🏦 Home Loan Prediction System
+# 🏦 Loan Approval Prediction System
 
 A **Machine Learning–based web application** that predicts whether a home loan will be approved or not based on customer details.
 The application is built using **Python, Scikit-Learn, and Streamlit**.
